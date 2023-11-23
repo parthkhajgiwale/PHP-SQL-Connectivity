@@ -70,3 +70,6 @@ Before you begin, ensure you have the following installed:
 - The password is hashed using password_hash() for security. Ensure your server supports this function (PHP 5.5.0 and above).
 
 - Styling for the registration form is provided in style.css. You can modify it to fit your design preferences.
+
+  ## LICENSE
+  This project is licensed under the MIT License - see the LICENSE [[Add path to your license file](https://github.com/parthkhajgiwale/PHP-SQL-Connectivity/blob/main/LICENSE)https://github.com/parthkhajgiwale/PHP-SQL-Connectivity/blob/main/LICENSE] file for details.
