@@ -72,4 +72,4 @@ Before you begin, ensure you have the following installed:
 - Styling for the registration form is provided in style.css. You can modify it to fit your design preferences.
 
   ## LICENSE
-  This project is licensed under the MIT License - see the LICENSE [[Add path to your license file](https://github.com/parthkhajgiwale/PHP-SQL-Connectivity/blob/main/LICENSE)https://github.com/parthkhajgiwale/PHP-SQL-Connectivity/blob/main/LICENSE] file for details.
+  This project is licensed under the MIT License - see the LICENSE file for details.
