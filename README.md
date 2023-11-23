@@ -1,6 +1,5 @@
 # PHP-SQL-Connectivity
 
-# User Registration System
 
 This project implements a basic user registration system with a registration form connected to a MySQL database. Users can input their username, password, and email to register, and the data will be stored securely in a MySQL database.
 
