@@ -52,6 +52,8 @@ Before you begin, ensure you have the following installed:
 
 2. **Fill out the Registration Form:**
     - Enter your desired username, a secure password, and a valid email address into the registration form.
+  
+      <img width="960" alt="Screenshot 2023-11-23 130606" src="https://github.com/parthkhajgiwale/PHP-SQL-Connectivity/assets/90266917/aa0f6ba2-1a5e-48ba-83c3-2e24d220c534">
 
 3. **Submit the Form:**
     - Click the "Register" button to submit the form.
@@ -59,9 +61,15 @@ Before you begin, ensure you have the following installed:
 4. **Check Registration Result:**
     - If the registration is successful, you will see a message indicating success.
     - If there's an error, an error message will be displayed with details.
+  <img width="960" alt="Screenshot 2023-11-23 130557" src="https://github.com/parthkhajgiwale/PHP-SQL-Connectivity/assets/90266917/24e67433-6410-4a33-9dfe-b52be694d59e">
+
+      
 
 5. **Review the Database:**
     - Check your MySQL database to confirm that the user information has been stored in the users table.
+<img width="960" alt="Screenshot 2023-11-23 131047" src="https://github.com/parthkhajgiwale/PHP-SQL-Connectivity/assets/90266917/356b357f-a0dd-49c5-9778-bd4ae3602ac0">
+
+
 
 ## Additional Notes
 
